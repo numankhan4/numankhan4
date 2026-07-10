@@ -1,108 +1,100 @@
-👋 Hi, I'm Numan Ul Haq
-
 <div align="center">
 
-### Senior Front-End Engineer • React • Next.js • TypeScript • AI Applications
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,30:1e293b,70:0ea5e9,100:22d3ee&text=Numan%20Ul%20Haq&fontColor=ffffff&fontSize=52&fontAlignY=38&desc=Frontend%20Architect%20%7C%20UI%20Systems%20Engineer&descAlignY=58&animation=fadeIn" alt="header" />
 
-Building scalable enterprise web applications, design systems, AI-powered solutions, and high-performance WordPress platforms.
+<h1>Building Frontends That Feel Premium, Fast, and Scalable</h1>
 
-[🌐 Portfolio](https://numankhan4.github.io/numanulhaq/) •
-[💼 LinkedIn](https://www.linkedin.com/) •
-[📧 Email](mailto:your-email@example.com)
+<p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Manrope&weight=600&size=23&pause=1200&color=06B6D4&center=true&vCenter=true&width=920&lines=13%2B+years+shipping+production-grade+frontends;React+%7C+Next.js+%7C+Angular+%7C+LitElement;Design+Systems+%E2%80%A2+Performance+%E2%80%A2+Accessibility+by+default" alt="typing animation" />
+</p>
+
+<p>
+  <a href="https://www.numanulhaq.com"><img src="https://img.shields.io/badge/Portfolio-Visit%20Site-0ea5e9?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://www.linkedin.com/in/numan-ul-haq-05338793/?originalSubdomain=pk"><img src="https://img.shields.io/badge/LinkedIn-Connect-0284c7?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://github.com/numankhan4"><img src="https://img.shields.io/badge/GitHub-Follow-111827?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+</p>
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=numankhan4&style=flat-square&color=0891b2" alt="profile views" />
+</p>
 
 </div>
 
 ---
 
-## 🚀 About Me
+## Snapshot
 
-I'm a **Senior Front-End Engineer** with **13+ years of experience** building enterprise-grade applications, modern SaaS platforms, AI-powered solutions, and scalable design systems.
+- 13+ years building and shipping frontends
+- 50+ production projects delivered
+- Design systems architected across multiple teams
+- Lighthouse, accessibility, and UX quality as first-class constraints
 
-I enjoy turning complex business requirements into intuitive, high-performance user experiences while collaborating closely with product, design, and engineering teams.
+## What I Do
 
-### 💡 Current Focus
+I help founders, SaaS teams, and agencies turn product ideas into polished interfaces that are reliable in production.
 
-- ⚛️ React 19 & Next.js 16
-- 🎨 Enterprise Design Systems
-- 🤖 AI-powered Web Applications
-- 🔐 Secure Authentication & JWT
-- 🌐 WordPress Enterprise Development
-- 🚀 Performance Optimization
+- Frontend architecture that scales with product growth
+- Design systems with reusable, maintainable components
+- Pixel-precise implementation from Figma to code
+- Performance tuning for smooth UX and better conversion
+- Accessibility-first engineering for inclusive products
 
----
+## Featured Work
 
-# 🛠 Tech Stack
+### Framework-Agnostic Design System (LitElement)
+- Led 5 engineers
+- Built a unified component repository and documentation
+- Enabled consistency across multiple products
 
-### Frontend
-`React` `Next.js` `TypeScript` `JavaScript`
-`Redux` `Tailwind CSS` `HTML5` `CSS3`
+### Resource Management System (Angular)
+- Led 2 developers
+- Implemented core HR workflows and dashboard UX
+- Delivered a robust product for daily operations
 
-### Backend
-`Node.js`
-`Express`
-`Laravel`
-`PHP`
+### C-Intel Data Visualization Platform (Angular)
+- Built interactive BI experiences and custom visual widgets
+- Improved insight discovery through intuitive data UX
 
-### CMS
-`WordPress`
-`ACF`
-`WooCommerce`
-`Elementor`
-`Gutenberg`
+## Tech Stack
 
-### Database
-`MySQL`
-`Supabase`
-`Firebase`
+<p>
+  <img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0f172a?style=flat-square&logo=react&logoColor=61dafb" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-1e293b?style=flat-square&logo=typescript&logoColor=3178c6" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Angular-0b1120?style=flat-square&logo=angular&logoColor=dd0031" alt="Angular" />
+  <img src="https://img.shields.io/badge/LitElement-082f49?style=flat-square&logo=lit&logoColor=00e8ff" alt="LitElement" />
+  <img src="https://img.shields.io/badge/Framer%20Motion-0c4a6e?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion" />
+  <img src="https://img.shields.io/badge/WordPress-083344?style=flat-square&logo=wordpress&logoColor=white" alt="WordPress" />
+  <img src="https://img.shields.io/badge/Node.js-0f766e?style=flat-square&logo=node.js&logoColor=white" alt="Node.js" />
+</p>
 
-### Tools
-`Git`
-`GitHub`
-`Storybook`
-`Figma`
-`VS Code`
+## GitHub Activity
 
----
+<div align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=numankhan4&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&title_color=0ea5e9&icon_color=06b6d4&text_color=94a3b8" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=numankhan4&theme=transparent&hide_border=true&ring=0ea5e9&fire=22d3ee&currStreakLabel=0ea5e9" alt="GitHub streak" />
+</div>
 
-# 💼 Professional Highlights
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=numankhan4&bg_color=00000000&color=38bdf8&line=06b6d4&point=22d3ee&area=true&hide_border=true" alt="activity graph" />
+</div>
 
-- ✅ 13+ years of software engineering experience
-- ✅ Enterprise Front-End Architecture
-- ✅ Design System Development
-- ✅ AI-enabled SaaS Applications
-- ✅ Performance Optimization
-- ✅ Secure Authentication Solutions
-- ✅ API Integrations
-- ✅ Responsive UI/UX Development
+## Collaboration
 
----
+Open to:
 
-# 🌟 Featured Projects
+- Frontend architecture for SaaS products
+- Design system planning and implementation
+- Senior frontend roles and contract collaborations
 
-## 🚀 Enterprise Release Notes Portal
-A secure enterprise platform with JWT authentication, protected release documentation, and role-based access.
+Reach out:
 
-## 🎨 Enterprise Design System
-Reusable UI components, Storybook documentation, and scalable frontend architecture.
-
-## 🤖 AI Applications
-Modern AI-powered applications integrating LLMs and workflow automation.
-
-## 🌐 Enterprise WordPress Solutions
-High-performance WordPress implementations with custom themes, Gutenberg blocks, APIs, MFA, and WooCommerce.
+- Website: https://www.numanulhaq.com
+- LinkedIn: https://www.linkedin.com/in/numan-ul-haq-05338793/?originalSubdomain=pk
 
 ---
 
-# 📈 What I Can Help With
-
-- Enterprise React Development
-- Next.js Applications
-- Frontend Architecture
-- Design Systems
-- WordPress Development
-- API Integration
-- Performance Optimization
-- AI Integration
-- UI/UX Implementation
-
----
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f172a,100:0ea5e9&height=2&section=footer" alt="divider" />
+  <p>Crafted with clarity, performance, and product thinking.</p>
+</div>
