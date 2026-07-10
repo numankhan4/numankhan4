@@ -1,7 +1,4 @@
-from pathlib import Path
-import pypandoc
-
-md = r"""# 👋 Hi, I'm Numan Ul Haq
+👋 Hi, I'm Numan Ul Haq
 
 <div align="center">
 
@@ -109,14 +106,3 @@ High-performance WordPress implementations with custom themes, Gutenberg blocks,
 - UI/UX Implementation
 
 ---
-
-# 📊 GitHub Stats
-
-> Replace `YOUR_USERNAME` below with your GitHub username.
-
-```md
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=github-dark)
