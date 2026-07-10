@@ -71,7 +71,7 @@ I help founders, SaaS teams, and agencies turn product ideas into polished inter
 ## GitHub Activity
 
 <div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=numankhan4&show_icons=true&theme=transparent&rank_icon=github&hide_border=true&title_color=0ea5e9&icon_color=06b6d4&text_color=94a3b8" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=numankhan4&show_icons=true&hide_border=true&title_color=0ea5e9&icon_color=06b6d4&text_color=94a3b8&bg_color=00000000" alt="GitHub stats" />
   <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=numankhan4&theme=transparent&hide_border=true&ring=0ea5e9&fire=22d3ee&currStreakLabel=0ea5e9" alt="GitHub streak" />
 </div>
 
