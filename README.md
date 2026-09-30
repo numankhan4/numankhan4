@@ -94,6 +94,16 @@
   <img src="https://img.shields.io/badge/Docker-0c4a6e?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
 </p>
 
+## Currently Building
+
+<!-- BUILDING:START -->
+#### [wp-headless-kit](https://github.com/numankhan4/wp-headless-kit)
+
+Typed, zero-dependency toolkit for headless WordPress front ends: REST client, SEO metadata, and Gutenberg block rendering.
+
+<sub>This section refreshes automatically every day.</sub>
+<!-- BUILDING:END -->
+
 ## GitHub Activity
 
 <div align="center">

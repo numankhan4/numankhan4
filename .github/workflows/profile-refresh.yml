@@ -1,0 +1,63 @@
+name: Refresh profile README
+
+# Daily: rewrite the "Currently building" block in README.md with the latest
+# merged PRs from the projects listed in PROJECTS. Commits only when it changed.
+
+on:
+  schedule:
+    - cron: "23 17 * * *" # 22:23 Pakistan time, after the day's work has merged
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+env:
+  PROJECTS: numankhan4/wp-headless-kit
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    env:
+      GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Build section
+        shell: bash
+        run: |
+          set -euo pipefail
+          {
+            for repo in $PROJECTS; do
+              desc=$(gh repo view "$repo" --json description --jq .description)
+              stars=$(gh repo view "$repo" --json stargazerCount --jq .stargazerCount)
+              echo "#### [${repo#*/}](https://github.com/$repo) · ⭐ $stars"
+              echo
+              echo "$desc"
+              echo
+              echo "Recently shipped:"
+              echo
+              gh pr list --repo "$repo" --state merged --limit 5 --json number,title,url,mergedAt \
+                --jq '.[] | "- [\(.title)](\(.url)) — \(.mergedAt[:10])"'
+              echo
+            done
+            echo "<sub>Updated $(date -u +%Y-%m-%d)</sub>"
+          } > section.md
+
+          python3 - <<'PY'
+          import re, pathlib
+          readme = pathlib.Path("README.md")
+          text = readme.read_text(encoding="utf-8")
+          section = pathlib.Path("section.md").read_text(encoding="utf-8").strip()
+          new = re.sub(r"(<!-- BUILDING:START -->).*?(<!-- BUILDING:END -->)",
+                       lambda m: f"{m.group(1)}\n{section}\n{m.group(2)}", text, flags=re.S)
+          readme.write_text(new, encoding="utf-8")
+          PY
+
+      - name: Commit if changed
+        run: |
+          if git diff --quiet -- README.md; then echo "No changes"; exit 0; fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -am "docs: refresh currently-building section"
+          git push
