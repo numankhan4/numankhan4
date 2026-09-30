@@ -97,11 +97,14 @@
 ## Currently Building
 
 <!-- BUILDING:START -->
-#### [wp-headless-kit](https://github.com/numankhan4/wp-headless-kit)
+#### [wp-headless-kit](https://github.com/numankhan4/wp-headless-kit) · ⭐ 0
 
 Typed, zero-dependency toolkit for headless WordPress front ends: REST client, SEO metadata, and Gutenberg block rendering.
 
-<sub>This section refreshes automatically every day.</sub>
+Recently shipped:
+
+
+<sub>Updated 2026-09-30</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
