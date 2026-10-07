@@ -103,13 +103,13 @@ Typed, zero-dependency toolkit for headless WordPress front ends: REST client, S
 
 Recently shipped:
 
+- [chore(deps): Bump @types/node from 26.6.3 to 26.6.4](https://github.com/numankhan4/wp-headless-kit/pull/54) — 2026-10-07
+- [docs: add CHANGELOG.md following Keep a Changelog](https://github.com/numankhan4/wp-headless-kit/pull/53) — 2026-10-07
+- [chore: add npm run coverage script](https://github.com/numankhan4/wp-headless-kit/pull/52) — 2026-10-07
 - [chore: add Prettier config and format scripts](https://github.com/numankhan4/wp-headless-kit/pull/51) — 2026-10-05
 - [ci(deps): Bump actions/configure-pages from 5 to 6](https://github.com/numankhan4/wp-headless-kit/pull/49) — 2026-10-04
-- [ci(deps): Bump actions/deploy-pages from 4 to 5](https://github.com/numankhan4/wp-headless-kit/pull/48) — 2026-10-04
-- [build: add package-lock.json for reproducible installs](https://github.com/numankhan4/wp-headless-kit/pull/46) — 2026-10-01
-- [chore(deps): Bump typescript from 5.9.3 to 7.0.2](https://github.com/numankhan4/wp-headless-kit/pull/19) — 2026-09-30
 
-<sub>Updated 2026-10-06</sub>
+<sub>Updated 2026-10-07</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
