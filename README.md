@@ -109,7 +109,7 @@ Recently shipped:
 - [docs: add CHANGELOG.md following Keep a Changelog](https://github.com/numankhan4/wp-headless-kit/pull/53) — 2026-10-07
 - [chore: add npm run coverage script](https://github.com/numankhan4/wp-headless-kit/pull/52) — 2026-10-07
 
-<sub>Updated 2026-10-10</sub>
+<sub>Updated 2026-10-11</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
