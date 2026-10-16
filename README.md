@@ -103,13 +103,13 @@ Typed, zero-dependency toolkit for headless WordPress front ends: REST client, S
 
 Recently shipped:
 
+- [feat(client): add getUser and WPUser type with avatar_urls](https://github.com/numankhan4/wp-headless-kit/pull/64) — 2026-10-16
 - [chore(deps): Bump prettier from 3.9.9 to 3.9.10](https://github.com/numankhan4/wp-headless-kit/pull/61) — 2026-10-14
 - [feat(client): add generic getCollection and getItemBySlug](https://github.com/numankhan4/wp-headless-kit/pull/60) — 2026-10-14
 - [feat(client): add basicAuth helper for Application Passwords](https://github.com/numankhan4/wp-headless-kit/pull/59) — 2026-10-13
 - [feat(client): add timeoutMs option via AbortSignal](https://github.com/numankhan4/wp-headless-kit/pull/58) — 2026-10-12
-- [feat(client): retry 429/5xx with exponential backoff](https://github.com/numankhan4/wp-headless-kit/pull/56) — 2026-10-09
 
-<sub>Updated 2026-10-15</sub>
+<sub>Updated 2026-10-16</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
