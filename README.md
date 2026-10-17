@@ -109,7 +109,7 @@ Recently shipped:
 - [feat(client): add basicAuth helper for Application Passwords](https://github.com/numankhan4/wp-headless-kit/pull/59) — 2026-10-13
 - [feat(client): add timeoutMs option via AbortSignal](https://github.com/numankhan4/wp-headless-kit/pull/58) — 2026-10-12
 
-<sub>Updated 2026-10-16</sub>
+<sub>Updated 2026-10-17</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
