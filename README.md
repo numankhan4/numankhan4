@@ -109,7 +109,7 @@ Recently shipped:
 - [chore(deps): Bump prettier from 3.9.9 to 3.9.10](https://github.com/numankhan4/wp-headless-kit/pull/61) — 2026-10-14
 - [feat(client): add generic getCollection and getItemBySlug](https://github.com/numankhan4/wp-headless-kit/pull/60) — 2026-10-14
 
-<sub>Updated 2026-10-22</sub>
+<sub>Updated 2026-10-23</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
