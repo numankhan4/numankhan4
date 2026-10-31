@@ -12,7 +12,7 @@ permissions:
   contents: write
 
 env:
-  PROJECTS: numankhan4/wp-headless-kit
+  PROJECTS: numankhan4/wp-headless-kit numankhan4/rag-starter
 
 jobs:
   refresh:
