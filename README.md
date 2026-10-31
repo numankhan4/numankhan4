@@ -103,13 +103,22 @@ Typed, zero-dependency toolkit for headless WordPress front ends: REST client, S
 
 Recently shipped:
 
+- [feat(client): add minimal WPGraphQLClient](https://github.com/numankhan4/wp-headless-kit/pull/69) — 2026-10-30
 - [feat(client): add optional in-memory TTL cache](https://github.com/numankhan4/wp-headless-kit/pull/68) — 2026-10-21
 - [feat(client): add getMenuItems and buildMenuTree](https://github.com/numankhan4/wp-headless-kit/pull/67) — 2026-10-20
 - [feat(client): add getUser and WPUser type with avatar_urls](https://github.com/numankhan4/wp-headless-kit/pull/64) — 2026-10-16
 - [chore(deps): Bump prettier from 3.9.9 to 3.9.10](https://github.com/numankhan4/wp-headless-kit/pull/61) — 2026-10-14
-- [feat(client): add generic getCollection and getItemBySlug](https://github.com/numankhan4/wp-headless-kit/pull/60) — 2026-10-14
 
-<sub>Updated 2026-10-30</sub>
+#### [rag-starter](https://github.com/numankhan4/rag-starter) · ⭐ 0
+
+FastAPI + Next.js RAG starter: ingest documents, retrieve chunks, answer with citations. Runs offline; plug in Claude, Voyage or pgvector.
+
+Recently shipped:
+
+- [chore(deps): Update uvicorn requirement from >=0.30 to >=0.54.0 in /backend](https://github.com/numankhan4/rag-starter/pull/30) — 2026-10-31
+- [chore(deps): Update fastapi requirement from >=0.115 to >=0.162.0 in /backend](https://github.com/numankhan4/rag-starter/pull/29) — 2026-10-31
+
+<sub>Updated 2026-10-31</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
