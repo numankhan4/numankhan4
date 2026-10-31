@@ -115,6 +115,7 @@ FastAPI + Next.js RAG starter: ingest documents, retrieve chunks, answer with ci
 
 Recently shipped:
 
+- [chore(deps): Update pydantic requirement from >=2.7 to >=2.14.1 in /backend](https://github.com/numankhan4/rag-starter/pull/39) — 2026-10-31
 - [chore(deps): Update uvicorn requirement from >=0.30 to >=0.54.0 in /backend](https://github.com/numankhan4/rag-starter/pull/30) — 2026-10-31
 - [chore(deps): Update fastapi requirement from >=0.115 to >=0.162.0 in /backend](https://github.com/numankhan4/rag-starter/pull/29) — 2026-10-31
 
