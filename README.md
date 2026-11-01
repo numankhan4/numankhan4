@@ -119,7 +119,7 @@ Recently shipped:
 - [chore(deps): Update uvicorn requirement from >=0.30 to >=0.54.0 in /backend](https://github.com/numankhan4/rag-starter/pull/30) — 2026-10-31
 - [chore(deps): Update fastapi requirement from >=0.115 to >=0.162.0 in /backend](https://github.com/numankhan4/rag-starter/pull/29) — 2026-10-31
 
-<sub>Updated 2026-10-31</sub>
+<sub>Updated 2026-11-01</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
