@@ -103,11 +103,11 @@ Typed, zero-dependency toolkit for headless WordPress front ends: REST client, S
 
 Recently shipped:
 
+- [feat(seo): add yoastBreadcrumbs from Yoast schema](https://github.com/numankhan4/wp-headless-kit/pull/87) — 2026-11-10
+- [feat(seo): add rankMathToMetadata for Rank Math head HTML](https://github.com/numankhan4/wp-headless-kit/pull/85) — 2026-11-10
+- [feat(seo): add buildRssFeed RSS 2.0 generator](https://github.com/numankhan4/wp-headless-kit/pull/84) — 2026-11-10
 - [feat(seo): add buildSitemap XML sitemap generator](https://github.com/numankhan4/wp-headless-kit/pull/82) — 2026-11-04
 - [feat(seo): add yoastJsonLd for safe JSON-LD output](https://github.com/numankhan4/wp-headless-kit/pull/81) — 2026-11-03
-- [chore: add Biome linting and `npm run lint`](https://github.com/numankhan4/wp-headless-kit/pull/80) — 2026-11-02
-- [feat(client): add minimal WPGraphQLClient](https://github.com/numankhan4/wp-headless-kit/pull/69) — 2026-10-30
-- [feat(client): add optional in-memory TTL cache](https://github.com/numankhan4/wp-headless-kit/pull/68) — 2026-10-21
 
 #### [rag-starter](https://github.com/numankhan4/rag-starter) · ⭐ 0
 
@@ -115,11 +115,11 @@ FastAPI + Next.js RAG starter: ingest documents, retrieve chunks, answer with ci
 
 Recently shipped:
 
+- [feat(backend): chunk offsets and headings in /query sources](https://github.com/numankhan4/rag-starter/pull/46) — 2026-11-10
+- [feat(backend): add recursive heading-aware chunking strategy](https://github.com/numankhan4/rag-starter/pull/45) — 2026-11-10
+- [feat(backend): support .pdf uploads via optional pypdf](https://github.com/numankhan4/rag-starter/pull/44) — 2026-11-10
 - [chore(deps): Update pydantic requirement from >=2.14.1 to >=2.14.2 in /backend](https://github.com/numankhan4/rag-starter/pull/43) — 2026-11-04
 - [feat(backend): markdown/HTML loaders and /ingest/file endpoint](https://github.com/numankhan4/rag-starter/pull/42) — 2026-11-03
-- [feat(backend): consistent error response shape](https://github.com/numankhan4/rag-starter/pull/41) — 2026-11-04
-- [feat(backend): JSON logging and X-Request-ID middleware](https://github.com/numankhan4/rag-starter/pull/40) — 2026-11-02
-- [chore(deps): Update pydantic requirement from >=2.7 to >=2.14.1 in /backend](https://github.com/numankhan4/rag-starter/pull/39) — 2026-10-31
 
 <sub>Updated 2026-11-10</sub>
 <!-- BUILDING:END -->
