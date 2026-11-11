@@ -103,11 +103,11 @@ Typed, zero-dependency toolkit for headless WordPress front ends: REST client, S
 
 Recently shipped:
 
+- [chore(deps): Bump @biomejs/biome from 2.6.4 to 2.6.6](https://github.com/numankhan4/wp-headless-kit/pull/90) — 2026-11-11
 - [feat(seo): add yoastBreadcrumbs from Yoast schema](https://github.com/numankhan4/wp-headless-kit/pull/87) — 2026-11-10
 - [feat(seo): add rankMathToMetadata for Rank Math head HTML](https://github.com/numankhan4/wp-headless-kit/pull/85) — 2026-11-10
 - [feat(seo): add buildRssFeed RSS 2.0 generator](https://github.com/numankhan4/wp-headless-kit/pull/84) — 2026-11-10
 - [feat(seo): add buildSitemap XML sitemap generator](https://github.com/numankhan4/wp-headless-kit/pull/82) — 2026-11-04
-- [feat(seo): add yoastJsonLd for safe JSON-LD output](https://github.com/numankhan4/wp-headless-kit/pull/81) — 2026-11-03
 
 #### [rag-starter](https://github.com/numankhan4/rag-starter) · ⭐ 0
 
@@ -115,13 +115,13 @@ FastAPI + Next.js RAG starter: ingest documents, retrieve chunks, answer with ci
 
 Recently shipped:
 
+- [chore(deps): Update fastapi requirement from >=0.162.0 to >=0.162.2 in /backend](https://github.com/numankhan4/rag-starter/pull/51) — 2026-11-11
+- [chore(deps): Update pydantic requirement from >=2.14.2 to >=2.14.3 in /backend](https://github.com/numankhan4/rag-starter/pull/50) — 2026-11-11
+- [chore(deps): Bump next from 16.4.3 to 16.4.5 in /frontend](https://github.com/numankhan4/rag-starter/pull/49) — 2026-11-11
+- [chore(deps): Update python-multipart requirement from >=0.0.20 to >=0.0.32 in /backend](https://github.com/numankhan4/rag-starter/pull/48) — 2026-11-11
 - [feat(backend): chunk offsets and headings in /query sources](https://github.com/numankhan4/rag-starter/pull/46) — 2026-11-10
-- [feat(backend): add recursive heading-aware chunking strategy](https://github.com/numankhan4/rag-starter/pull/45) — 2026-11-10
-- [feat(backend): support .pdf uploads via optional pypdf](https://github.com/numankhan4/rag-starter/pull/44) — 2026-11-10
-- [chore(deps): Update pydantic requirement from >=2.14.1 to >=2.14.2 in /backend](https://github.com/numankhan4/rag-starter/pull/43) — 2026-11-04
-- [feat(backend): markdown/HTML loaders and /ingest/file endpoint](https://github.com/numankhan4/rag-starter/pull/42) — 2026-11-03
 
-<sub>Updated 2026-11-10</sub>
+<sub>Updated 2026-11-11</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
