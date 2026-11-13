@@ -121,7 +121,7 @@ Recently shipped:
 - [chore(deps): Update python-multipart requirement from >=0.0.20 to >=0.0.32 in /backend](https://github.com/numankhan4/rag-starter/pull/48) — 2026-11-11
 - [feat(backend): chunk offsets and headings in /query sources](https://github.com/numankhan4/rag-starter/pull/46) — 2026-11-10
 
-<sub>Updated 2026-11-12</sub>
+<sub>Updated 2026-11-13</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
