@@ -103,11 +103,11 @@ Typed, zero-dependency toolkit for headless WordPress front ends: REST client, S
 
 Recently shipped:
 
+- [feat(blocks): add core/embed renderer with lite YouTube/Vimeo](https://github.com/numankhan4/wp-headless-kit/pull/92) — 2026-11-17
 - [feat(blocks): add safe core/image renderer](https://github.com/numankhan4/wp-headless-kit/pull/91) — 2026-11-14
 - [chore(deps): Bump @biomejs/biome from 2.6.4 to 2.6.6](https://github.com/numankhan4/wp-headless-kit/pull/90) — 2026-11-11
 - [feat(seo): add buildRobotsTxt robots.txt builder](https://github.com/numankhan4/wp-headless-kit/pull/88) — 2026-11-14
 - [feat(seo): add yoastBreadcrumbs from Yoast schema](https://github.com/numankhan4/wp-headless-kit/pull/87) — 2026-11-10
-- [feat(seo): add rankMathToMetadata for Rank Math head HTML](https://github.com/numankhan4/wp-headless-kit/pull/85) — 2026-11-10
 
 #### [rag-starter](https://github.com/numankhan4/rag-starter) · ⭐ 0
 
