@@ -121,7 +121,7 @@ Recently shipped:
 - [feat(backend): doc_id and title filters on /query](https://github.com/numankhan4/rag-starter/pull/53) — 2026-11-14
 - [chore(deps): Update fastapi requirement from >=0.162.0 to >=0.162.2 in /backend](https://github.com/numankhan4/rag-starter/pull/51) — 2026-11-11
 
-<sub>Updated 2026-11-20</sub>
+<sub>Updated 2026-11-21</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
