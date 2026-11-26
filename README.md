@@ -115,13 +115,13 @@ FastAPI + Next.js RAG starter: ingest documents, retrieve chunks, answer with ci
 
 Recently shipped:
 
+- [chore(deps): Update pydantic requirement from >=2.14.3 to >=2.14.4 in /backend](https://github.com/numankhan4/rag-starter/pull/59) — 2026-11-25
 - [chore(deps): Update ruff requirement from >=0.6 to >=0.17.5 in /backend](https://github.com/numankhan4/rag-starter/pull/58) — 2026-11-18
 - [chore(deps): Bump next from 16.4.5 to 16.4.6 in /frontend](https://github.com/numankhan4/rag-starter/pull/57) — 2026-11-18
 - [chore(deps): Update fastapi requirement from >=0.162.2 to >=0.162.5 in /backend](https://github.com/numankhan4/rag-starter/pull/56) — 2026-11-18
 - [feat(backend): doc_id and title filters on /query](https://github.com/numankhan4/rag-starter/pull/53) — 2026-11-14
-- [chore(deps): Update fastapi requirement from >=0.162.0 to >=0.162.2 in /backend](https://github.com/numankhan4/rag-starter/pull/51) — 2026-11-11
 
-<sub>Updated 2026-11-25</sub>
+<sub>Updated 2026-11-26</sub>
 <!-- BUILDING:END -->
 
 ## GitHub Activity
